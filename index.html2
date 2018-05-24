@@ -8,26 +8,137 @@
     <div class="intro">
       <h1>Brittany</h1>
       <h2>print &amp; design</h2>
-      </div>
-      <div class="wrapper">
-        <section class="about">
-          <h3>Hi, my name is Brittany.</h3>
-          <p>
-            And then there were all of these things to learn and it was all very exciting. One day in the vast wonderland of the www...and then and then.
-            After that I found my car. Lorem ipsum and such on for. </p>
-        </section>
-      </div>
-      <h3>b work</h3>
-      <section class="work"></section>
-        <div class="image-area left"><img alt="Website" src="img/image.jpg" /></div>
-        <div class="text-box-content">
-
-        
-        </div>
-        </div>
-
-
+    </div>
   </header>
 
-</body>
-</html>
+  <div class="wrapper">
+    <section class="about">
+      <div class="about-content">
+      <h3>Hi, my name is Brittany.</h3>
+      <p>
+        And then there were all of these things to learn and it was all very exciting. One day in the vast wonderland of the www...and then and then.
+        After that I found my car. Lorem ipsum and such on for. </p>
+      </div>
+      </section>
+    </div>
+    <h3>b work</h3>
+    <section class="work">
+    <div class="image-area left">
+      <!--Add images in Windows boot-->
+      <img src="img/imagewebsiteaddy.jpg" alt="Website"/>
+    </div>
+      <div class="text-box">
+    <div class="text-box-content">
+      <h3>Training &amp; Development</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+      <a href="#" target="_blank" class="button">view project</a>
+    </div>
+  </div>
+</section>
+
+  <div class="image-area right">
+    <img alt="Website" src="img/image.jpg"></div>
+  <div class="text-box">
+    <div class="text-box-content">
+      <h3>Product Labels</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+    </div>
+  </div><!--End of "wrapper"-->
+  <section class="work">
+  <div class="image-area left">
+    <!--Add images in Windows boot-->
+    <img src="img/imagewebsiteaddy.jpg" alt="Website"/>
+  </div>
+    <div class="text-box">
+  <div class="text-box-content">
+    <h3>Training &amp; Development</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+    <a href="#" target="_blank" class="button">view project</a>
+  </div>
+</div>
+</section>
+
+<div class="image-area right">
+  <img alt="Website" src="img/image.jpg"></div>
+<div class="text-box">
+  <div class="text-box-content">
+    <h3>Product Labels</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+  </div>
+</div>
+  <section class="contact">
+    <div class="contact-content">
+      <h4>Have a project in mind? Email me:<a class="email" href="mailto:brittanythirtyacre@gmail.com">brittanythirtyacre@gmail.com</a></h4>
+    </div>
+  </section>
+  <section class="work">
+  <div class="image-area left">
+    <!--Add images in Windows boot-->
+    <img src="img/imagewebsiteaddy.jpg" alt="Website"/>
+  </div>
+    <div class="text-box">
+  <div class="text-box-content">
+    <h3>Training &amp; Development</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+    <a href="#" target="_blank" class="button">view project</a>
+  </div>
+</div>
+</section>
+
+<div class="image-area right">
+  <img alt="Website" src="img/image.jpg"></div>
+<div class="text-box">
+  <div class="text-box-content">
+    <h3>Product Labels</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+  </div>
+</div>
+<section class="work">
+<div class="image-area left">
+  <!--Add images in Windows boot-->
+  <img src="img/imagewebsiteaddy.jpg" alt="Website"/>
+</div>
+  <div class="text-box">
+<div class="text-box-content">
+  <h3>Training &amp; Development</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+  <a href="#" target="_blank" class="button">view project</a>
+</div>
+</div>
+</section>
+
+<div class="image-area right">
+<img alt="Website" src="img/image.jpg"></div>
+<div class="text-box">
+<div class="text-box-content">
+  <h3>Product Labels</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elicit joy. Veni vidi vici, vel consequat justo laoreet.</p><a class="button" href="#" target="_blank">view project</a>
+</div>
+</div>
+
+  <!--Will add self image in Windows boot-->
+  <div class="image-divider">
+  </div>
+
+  <footer>
+    <div class="footer-content">
+      <p class="credit">Vist design site:</p>
+        <ul class="social">
+          <li>
+            <a href="#" target="_blank">twitter.</a>
+          </li>
+          <li>
+            <a href="#" target="_blank">pinterest.</a>
+          </li>
+          <li>
+            <a href="#" target="_blank">youtube.</a>
+          </li>
+          <li>
+            <a href="#" target="_blank">linkedin.</a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+
+  </body>
+  </html>
