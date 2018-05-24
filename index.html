@@ -1,23 +1,45 @@
 <!DOCTYPE html>
-<html>
-  <title>
-    First GH PAGES Site
-  </title>
-  
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+ <title>First GH PAGES Site</title>
+<script src="<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>"></script>
+<style type="text/css">
+/*To be modified to fit format of linked style sheet per standard */
+p {
+  width: 200px; 
+	padding: 40px 0;
+	font: bold 24px sans-serif;
+	text-align: center;
+    background: #aaccaa;
+    border: 1px solid #63a063;
+    box-sizing: border-box;
+}
+</style>
+    <script tpe="text/javascript">
+      $(document).ready(function(){
+        $(".start").click(function(){
+          $("p").animate{width: "100%"}).animate({fontSize:"48px"}).animate({borderWidth: 30});
+      });
+        $(.reset").click(function(){
+          $("p").removeAttr("style");
+      });
+    });
+    </script>
+  </head>
   <body>
     <header>
-    <h1>First github page</h1>
+      <h1>First github page</h1>
     </header>
     <main>
       <p>Welcome one and all. There is so much to learn, so much to know, so many ways to learn, to learn and 
         to grow!</p>
     </main>
-  </body>
-   <style>
-      body {
-        background-color:green;
-        color:#fff;
-        text-align:center;
-      }
-    </style>
+    <p>Ta Da!</p>
+    <button type="button" class="start">Start Chaining</button>
+    <button type="button" class="reset">Reset</button>
+</body>
 </html>
