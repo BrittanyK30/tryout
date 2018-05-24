@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <header>
+    <div class="intro">
+      <h1>Brittany</h1>
+      <h2>print &amp; design</h2>
+      </div>
+      <div class="wrapper">
+        <section class="about">
+          <h3>Hi, my name is Brittany.</h3>
+          <p>
+            And then there were all of these things to learn and it was all very exciting. One day in the vast wonderland of the www...and then and then.
+            After that I found my car. Lorem ipsum and such on for. </p>
+        </section>
+      </div>
+      <h3>b work</h3>
+      <section class="work"></section>
+        <div class="image-area left"><img alt="Website" src="img/image.jpg" /></div>
+        <div class="text-box-content">
+
+        
+        </div>
+        </div>
+
+
+  </header>
+
+</body>
+</html>
